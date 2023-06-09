@@ -1,3 +1,5 @@
+## Comparing two CV schemes
+
 This repository contains the code for comparing nested cross-validation and
 the 'select-shuffle-test' method introduced in the well-written review by
 Bradshaw et al. (https://pubs.rsna.org/doi/10.1148/ryai.220232).
@@ -21,3 +23,10 @@ selection and (nearly) linear methods. In the radiomic
 context, several thousand configurations are often tested with
 classifiers that are much more able to overfit the data.
 Therefore we expect that the bias will be much larger than computed here.
+
+&nbsp;
+&nbsp;
+
+[<img src="./results/Figure.png">](Figure)
+
+&nbsp;
